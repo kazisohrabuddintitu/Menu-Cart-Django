@@ -6,12 +6,12 @@ This project is a REST API project built with Django REST Framework. It provides
 ## Installation
 1. Clone the repository:
 <pre>
-git clone https://github.com/your-username/your-repository.git
+git clone https://github.com/kazisohrabuddintitu/Menu-Cart-Django.git
 </pre>
 
 2. Change into the project directory:
 <pre>
-cd your-repository
+cd Restaurant_Management_REST_API
 </pre>
 
 3. Install the dependencies:
